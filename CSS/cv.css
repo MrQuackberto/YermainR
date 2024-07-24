@@ -1,0 +1,110 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #DEB887;
+}
+.header{
+    height: 400px;
+    color: white;
+    text-align: center;
+    background-color: #191970;
+}
+#titulo{
+    font-size: 3rem;
+    padding: 40px 0 10px 0;
+}
+.header img{
+    border: solid 10px ;
+    transform: translateY(50px);
+    width: 400px;
+    border-radius: 50%;
+}
+.header p{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+main{
+    height: 100vh;
+    background-color: #DEB887;
+}
+h2{
+    text-align: left;
+    font-size: 60px;
+    top: auto;
+}
+#columnauna{
+    transform: translate(110px, -450px); 
+}
+.education{
+    font-size: 2rem;
+    transform: translate(110px, -450px);
+}
+.columna{
+    transform: translate(110px, -450px);
+    font-size: 30px;
+}
+.skills{
+    transform: translate(110px, -450px);
+    font-size: 30px;
+}
+#barras{
+    transform: translate(110px, -450px);
+    font-size: 30px;
+}
+.p1{
+    font-size: 2rem;
+}
+.p3{
+    font-size: 2rem;
+}
+.p4{
+    font-size: 2rem;
+}
+.p5{
+    font-size: 2rem;
+}
+.p6{
+    font-size: 2rem;
+}
+.Experiencia{
+    transform: translateX(330px);
+    position: absolute;
+    top: -1130px;
+    right: -800px;
+    transform: translate(-100%);
+}
+.hobbies{
+    transform: translateX(330px);
+    position: absolute;
+    bottom: 100px;
+    right: 950px;
+    transform: translate(100%);
+}
+.icons{
+    display: flex;
+    gap: 70px;
+    font-size: 150px;
+    bottom: 170px;
+}
+.rectangulo {
+    width: 800px;
+    height: 160px;
+    background-color: #DEB887;
+    transform: translate(100px, -200px);
+}
+.rectangulo2 {
+    width: 800px;
+    height: 160px;
+    background-color: #DEB887;
+    transform: translate(2200px, -350px);
+}
+#iconos{
+    font-size: 40px;
+    transform: translate(110px, -450px);
+}
+.iconos{
+    font-size: 40px;
+    transform: translate(2300px, -550px);
+}
